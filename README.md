@@ -5,7 +5,8 @@
 ```
 ngrok tcp 22
 ```
-![Снимок экрана 2023-06-02 184257](https://github.com/dandelion16012/lab11/assets/114254438/8157c88d-23c8-4d4d-b22a-3c29624ae17e)
+![Снимок экрана 2023-06-02 184500](https://github.com/dandelion16012/lab11/assets/114254438/f89b3754-7c80-47a6-8a0c-9319580f3538)
+
 
 
 Проверка сетевого соединеня.
@@ -21,5 +22,3 @@ sudo service ssh start
 ssh <имя пользователя><домен> -p<порт>
 ```
 
-
-![Снимок экрана 2023-06-02 183136](https://github.com/dandelion16012/lab11/assets/114254438/9ffac066-e262-4834-b55b-9ff322720c2b)
