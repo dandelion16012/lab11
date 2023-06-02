@@ -17,5 +17,6 @@ sudo service ssh start
 ```
 ssh <имя пользователя><домен> -p<порт>
 ```
-![Uploading Снимок экрана 2023-06-02 183136.jpg…]()
 
+
+![Снимок экрана 2023-06-02 183136](https://github.com/dandelion16012/lab11/assets/114254438/9ffac066-e262-4834-b55b-9ff322720c2b)
